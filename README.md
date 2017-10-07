@@ -29,3 +29,9 @@
 - [HashMap源码分析](https://juejin.im/entry/59b77d3bf265da066875cfb9)
 
 - [Glide 加载图片保存至本地，加载回调监听](http://www.jianshu.com/p/33d7e26e9e25)
+
+- [PHP代码简洁之道——类和对象部分](https://segmentfault.com/a/1190000011443709)
+
+- [PHP代码简洁之道——变量部分](https://segmentfault.com/a/1190000011387422)
+
+- [PHP代码简洁之道——函数部分](https://segmentfault.com/a/1190000011432785)
