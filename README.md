@@ -1,2 +1,1 @@
-# awsome-articles
-收集一些有趣的文章，比较杂，欢迎大家踊跃提issue
+# [个人开发者的困境与突破](https://juejin.im/post/59d086ef6fb9a00a5f471c21)
