@@ -35,3 +35,5 @@
 - [PHP代码简洁之道——变量部分](https://segmentfault.com/a/1190000011387422)
 
 - [PHP代码简洁之道——函数部分](https://segmentfault.com/a/1190000011432785)
+
+- [程序员共读](https://mp.weixin.qq.com/s/ojALWCCOsFwSEP1VEYJDlQ)
